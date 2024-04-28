@@ -124,4 +124,8 @@ body {
   html {
     font-size: 35%;
   }
+
+  body {
+    overflow: hidden;
+  }
 }
